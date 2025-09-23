@@ -1,4 +1,4 @@
-```markdown
+
 # RESTful APIs Guide
 
 ## What Is an API?
